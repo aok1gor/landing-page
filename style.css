@@ -147,3 +147,11 @@ a {
     padding: 10px 15px;
     border-color: white;
 }
+
+.part5 {
+    background-color: violet;
+    text-align: center;
+    padding: 40px 0px;
+    color: white;
+    font-size: 25px;
+}
